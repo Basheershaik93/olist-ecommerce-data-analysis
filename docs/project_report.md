@@ -37,7 +37,7 @@ The main cleaning decisions so far are described below.
 
 ### 3.1 Missing approval timestamps
 
-A total of 146 missing approval timestamps were identified during the review. Fourteen of these belonged to orders marked as delivered.
+A total of 160 missing approval timestamps were identified during the review. Fourteen of these belonged to orders marked as delivered.
 
 For those 14 orders, an estimated approval timestamp was calculated using the purchase timestamp and the average observed time between purchase and approval, rounded to the nearest second.
 
